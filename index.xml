@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ron @ Github</title>
+    <link>https://ronsmits.github.io/</link>
+    <description>Recent content on Ron @ Github</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 25 Nov 2015 22:01:49 +0100</lastBuildDate>
+    <atom:link href="https://ronsmits.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>about</title>
+      <link>https://ronsmits.github.io/about/</link>
+      <pubDate>Wed, 25 Nov 2015 22:01:49 +0100</pubDate>
+      
+      <guid>https://ronsmits.github.io/about/</guid>
+      <description>&lt;p&gt;&lt;img src=https://avatars2.githubusercontent.com/u/595350?v=3&amp;s=460&#34; style=&#34;width:32px&#34;/&gt; I work in IT, been doing that for a long long time. And still in the evening I am often found deep in an editor doing what I like
+creating things in Java.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>_index</title>
+      <link>https://ronsmits.github.io/_index/</link>
+      <pubDate>Wed, 25 Nov 2015 21:56:08 +0100</pubDate>
+      
+      <guid>https://ronsmits.github.io/_index/</guid>
+      <description>&lt;p&gt;Ultimately boring site, describing some of the things I meddle with&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>index</title>
+      <link>https://ronsmits.github.io/</link>
+      <pubDate>Wed, 25 Nov 2015 21:06:59 +0100</pubDate>
+      
+      <guid>https://ronsmits.github.io/</guid>
+      <description>&lt;p&gt;Some content om te laten zien dat het werkt&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
